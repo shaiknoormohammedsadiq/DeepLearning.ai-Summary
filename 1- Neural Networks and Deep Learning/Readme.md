@@ -1,7 +1,5 @@
 # Neural Networks and Deep Learning
 
-This is the first course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
-
 ## Table of contents
 
 * [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
@@ -685,20 +683,3 @@ Here are the course summary as its given on the course [link](https://www.course
 - The field of computer vision has taken a bit more inspiration from the human brains then other disciplines that also apply deep learning.
 - NN is a small representation of how brain work. The most near model of human brain is in the computer vision (CNN)
 
-## Extra: Ian Goodfellow interview
-
-- Ian is one of the world's most visible deep learning researchers.
-- Ian is mainly working with generative models. He is the creator of GANs.
-- We need to stabilize GANs. Stabilized GANs can become the best generative models.
-- Ian wrote the first textbook on the modern version of deep learning with Yoshua Bengio and Aaron Courville.
-- Ian worked with [OpenAI.com](https://openai.com/) and Google on ML and NN applications.
-- Ian tells all who wants to get into AI to get a Ph.D. or post your code on Github and the companies will find you.
-- Ian thinks that we need to start anticipating security problems with ML now and make sure that these algorithms are secure from the start instead of trying to patch it in retroactively years later.
-
-
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
